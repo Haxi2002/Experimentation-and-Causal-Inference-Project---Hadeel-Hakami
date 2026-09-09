@@ -1,6 +1,7 @@
 # Experimentation-and-Causal-Inference-Project---Hadeel-Hakami
 SDAIA_ACADEMY
 https://github.com/SDAIAAcademy/
+
 Injaz Smart Reminder: Causal Inference & A/B Testing Lab
 An advanced end-to-end data science and experimental design repository implementing Causal Inference, A/B Testing, Variance Reduction (CUPED), and Sequential Testing (Mixture SPRT) workflows on educational platform user data to evaluate the impact of the "Smart Reminder" feature.
 
